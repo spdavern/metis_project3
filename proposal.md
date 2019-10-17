@@ -8,9 +8,11 @@ Sean Davern<br/>Seattle, Fall Cohort, weeks 4-6.5
 
 Data provided to Page Ahead from the state of Washington is proposed to be analyzed to assess the performance of the Book Up program in the WA elementary schools  Page Ahead serves.  Student assessed as "at risk" or not meeting reading standards in kindergarten receive 0 to 3 years of Book Up program intervention services.  At third grade the state begins a mandatory testing program based on the Smarter Balanced Assessment Consortium[^3] (SBAC) testing system. The target predictors is whether these students meet English Language Arts (ELA) literacy standards [level 3 or 4].  The data contains other factors that may or may not correlate with the success for meeting standards which may help families, school, and third party programs like Page Ahead to identify kids at highest risk.
 
+The proposed product of this project is a tool that can predict the impact on the probability of meeting ELA literacty standards of Page Ahead's Book Up program for K-2 students.  The projected impact will be a function of the number of summers a student receives the Book Up intervention as well as their kindergarten reading MAP score.
+
 ## MVP
 
-An MVP would successfully identify kindergartener's who evaluated below standards and received 3 years of the Book Up program, which may not occur at the same school, and evaluate the increase in probability for meeting 3rd grade SBAC standards.   This involves evaluating each student for how many years of Page Ahead services they received, Kindergarten and 3rd grade ELA performances.  A model can then be fit to simply predict the probability for MetStandard=Y.
+An MVP would successfully identify kindergartener's who evaluated below standards and received 3 years of the Book Up program, which may not occur at the same school, and evaluate the increase in probability for meeting 3rd grade SBAC standards.   This involves evaluating each student for how many years of Page Ahead services they received, Kindergarten and 3rd grade ELA performances.  A model can then be fit to simply predict the probability for MetStandard=Y.  The MVP model will fit MetStandard as a function of kindergarten RIT score and number of treatments received.
 
 ## Data
 
