@@ -1,3 +1,8 @@
 # Untracked Files:
 .ipynb_checkpoints
 .ipynb_checkpoints/*
+
+# I will untrack all data folders so the data doesn't go to Github
+# in compliance with my nondisclosure agreement with Page Ahead.
+data
+data/*

@@ -16,8 +16,8 @@ An MVP would successfully identify kindergartener's who evaluated below standard
 
 Two example data files have been provided by Page Ahead:
 
-* [Seansample.xlsx](https://github.com/spdavern/metis_project3/blob/master/references/Seansample.xlsx)
-* [Seandata2.xlsx](https://github.com/spdavern/metis_project3/blob/master/references/Seandata2.xlsx)
+* Seansample.xlsx
+* Seandata2.xlsx
 
 I signed an [Affidavit of Nondisclosure](https://github.com/spdavern/metis_project3/blob/master/references/PageAhead_Custom_Proxy_DSA_13_19%20Sean.pdf) with Page Ahead on 10/16/2019.  Subsequently I was provided access to 6 files totalling ~90MB of csv files.  The table below give an idea of the features based on the example data.
 
