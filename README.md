@@ -47,10 +47,10 @@ Contact the author for more information about the data.
 │   ├── 09_part_iii_sql_soccer.md		SQL Challenge part III - questions only
 │   ├── Baseball.ipynb		Solution to SQL Challenge part II
 │   ├── Minimalistic.ipynb		Work completed to ask slack questions. See:
-							https://fall-sea19-metis.slack.com/archives/CPX56B88N/p1572213116013700
+│		│					https://fall-sea19-metis.slack.com/archives/CPX56B88N/p1572213116013700
 │   ├── Soccer.ipynb		Solution to SQL Challenge part III
 │   ├── Test.ipynb		Work completed to try SQLAlchemy guidance from Roberto. See
-							https://fall-sea19-metis.slack.com/archives/CPX56B88N/p1572219428017000
+│		│					https://fall-sea19-metis.slack.com/archives/CPX56B88N/p1572219428017000
 │   ├── baseballdata		Baseball db files for Challenge II from lahman-csv_2014-02-14.zip
 │   │   ├── AllstarFull.csv
 │   │   ├── Appearances.csv
@@ -91,8 +91,8 @@ Contact the author for more information about the data.
 │   │   └── targets.pkl
 │   ├── processed		Not used
 │   └── raw		Source data files from Susan Dibble at Page Ahead.  Source:
-						https://drive.google.com/drive/folders/1150HuPmgyvbKFgp1A8WT1eFHixpZtD1q
-						Covered by Data Sharing Agreement: PageAhead_Custom_Proxy_DSA_13_19\ Sean.pdf
+│				│		https://drive.google.com/drive/folders/1150HuPmgyvbKFgp1A8WT1eFHixpZtD1q
+│				│		Covered by Data Sharing Agreement: PageAhead_Custom_Proxy_DSA_13_19\ Sean.pdf
 │       ├── 2015_ADR-301-MAP-Assessment-Scores.csv	2015 MAP Data Seattle Public Schools
 │       ├── 2016_ADR-301-MAP-Assessment-Scores.csv	2016 MAP Data Seattle Public Schools
 │       ├── 2017_ADR-301-MAP-Assessment-Scores.csv	2017 MAP Data Seattle Public Schools
